@@ -1,0 +1,1082 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Samith",
+      "email": "samith677@gmail.com",
+      "password": "admin123",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": "1763984565491",
+      "username": "samith",
+      "email": "samithsamith677@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-11-24T11:42:45.491Z",
+      "status": "active"
+    },
+    {
+      "id": "1763991765974",
+      "username": "adil",
+      "email": "adil@gmail.com",
+      "password": "123321",
+      "createdAt": "2025-11-24T13:42:45.974Z",
+      "status": "active"
+    },
+    {
+      "id": "1763991860780",
+      "username": "adnan01",
+      "email": "adnan01@email.com",
+      "password": "123456",
+      "createdAt": "2025-11-24T13:44:20.780Z",
+      "status": "active"
+    },
+    {
+      "id": "1763992849281",
+      "username": "kiran",
+      "email": "kiran@gmail.com",
+      "password": "543211",
+      "createdAt": "2025-11-24T14:00:49.281Z",
+      "status": "blocked"
+    },
+    {
+      "id": "1764059790866",
+      "username": "boob",
+      "email": "boob@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-11-25T08:36:30.866Z",
+      "status": "active"
+    },
+    {
+      "id": "1764079238820",
+      "username": "demo",
+      "email": "demo@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-11-25T14:00:38.820Z",
+      "status": "active"
+    },
+    {
+      "id": "1764218581803",
+      "username": "demo1",
+      "email": "demo1@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-11-27T04:43:01.803Z",
+      "status": "active"
+    },
+    {
+      "id": "1764219290163",
+      "username": "samith",
+      "email": "samith@gmail.com",
+      "password": "123456",
+      "createdAt": "2025-11-27T04:54:50.163Z",
+      "status": "active"
+    },
+    {
+      "id": "1764502594137",
+      "username": "sammi",
+      "email": "sammi@gmail.com",
+      "password": "As1234",
+      "createdAt": "2025-11-30T11:36:34.137Z",
+      "status": "active"
+    },
+    {
+      "id": "1764771942650",
+      "username": "gopal",
+      "email": "gopal@gmail.com",
+      "password": "Password",
+      "createdAt": "2025-12-03T14:25:42.650Z",
+      "status": "active"
+    },
+    {
+      "id": "1764845323948",
+      "username": "pooja",
+      "email": "poja@gmail.com",
+      "password": "Pooja123",
+      "createdAt": "2025-12-04T10:48:43.948Z",
+      "status": "active"
+    },
+    {
+      "id": "1764910215336",
+      "username": "deelip",
+      "email": "deelip@gmail.com",
+      "password": "Deelip",
+      "createdAt": "2025-12-05T04:50:15.336Z",
+      "status": "blocked"
+    },
+    {
+      "id": "1764913750981",
+      "username": "adil",
+      "email": "adil@gmail.cpom",
+      "password": "Adil.123",
+      "createdAt": "2025-12-05T05:49:10.981Z",
+      "status": "active"
+    },
+    {
+      "id": "1764930328958",
+      "username": "adnan",
+      "email": "adnan@email.com",
+      "password": "Adnan123",
+      "createdAt": "2025-12-05T10:25:28.958Z",
+      "status": "blocked"
+    },
+    {
+      "id": "1765292627547",
+      "username": "samith",
+      "email": "samith12@gamil.com",
+      "password": "Samith123",
+      "createdAt": "2025-12-09T15:03:47.547Z"
+    }
+  ],
+  "products": [
+    {
+      "name": "PureFlow Mineral RO System",
+      "category": "ro",
+      "price": 14999,
+      "originalPrice": 14999,
+      "rating": 4.8,
+      "stock": 9,
+      "reviews": 20,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/water-purifiers/gallery/ww156rttc/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+      "description": "App Control Water Quality Monitor",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-384072-638",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "Mineral Retention",
+        "Energy Saving",
+        "6L Storage"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-26T12:59:18.409Z",
+      "id": "2"
+    },
+    {
+      "name": "CleanWater UV Purifier",
+      "category": "uv",
+      "price": 10000,
+      "originalPrice": 12500,
+      "rating": 4.2,
+      "stock": 12,
+      "reviews": 67,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww136rtnb/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+      "description": "LG 8L RO+STS Tank Water Purifier , Stainless Steel Tank , Solid Black",
+      "brand": "LG ",
+      "warranty": "1",
+      "sku": "PROD-494744-939",
+      "discount": 20,
+      "specifications": "",
+      "features": [
+        "UV Sterilization",
+        "5-stage Filtration",
+        "Wall Mountable"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T09:22:19.817Z",
+      "id": "3"
+    },
+    {
+      "name": "AquaGuard UF Water Filter",
+      "category": "uf",
+      "price": 8499,
+      "originalPrice": 8499,
+      "rating": 4,
+      "stock": 20,
+      "reviews": 45,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww184etb/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+      "description": "LG 8L RO+UV+UF+Mineral Booster Water Purifier with Steel Tank, Black",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-562338-505",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "UF Membrane",
+        "No Electricity",
+        "7L Capacity"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:09:53.192Z",
+      "id": "4"
+    },
+    {
+      "name": "SmartPure RO Digital",
+      "category": "ro",
+      "price": 25999,
+      "originalPrice": 25999,
+      "rating": 4.7,
+      "stock": 6,
+      "reviews": 156,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww151nt_bbkqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+      "description": "LG 8L RO+UV+Mineral Booster Water Purifier, Steel Tank, Black",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-599998-891",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "WiFi Connected",
+        "Voice Control",
+        "8-stage Purification"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:10:45.237Z",
+      "id": "5"
+    },
+    {
+      "name": "EcoWater Gravity Filter",
+      "category": "gravity",
+      "price": 6499,
+      "originalPrice": 6499,
+      "rating": 4.1,
+      "stock": 25,
+      "reviews": 78,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/water-purifiers/gallery/common/common-image/ww184epc/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+      "description": "LG 8L RO+UV+UF+Mineral Booster Water Purifier with Steel Tank",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-655144-449",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "No Electricity",
+        "Portable",
+        "Ceramic Filter"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:11:39.861Z",
+      "id": "6"
+    },
+    {
+      "name": " V-Gard Alkaline RO",
+      "category": "ro",
+      "price": 20999,
+      "originalPrice": 20999,
+      "rating": 4.4,
+      "stock": 10,
+      "reviews": 92,
+      "image": "https://vguard.com/cdn/shop/files/1_e84a40f9-73cd-4307-a2dd-1e913ce1471e.jpg?v=1743953040&width=493",
+      "description": "V-Guard Zenora RO UV MF Water Purifier for Home | Up to 40% Water Recovery | 8 Stage Purification | 1 Year Unconditional Warranty by V-Guard | GEEF Global WaterTech Award 2024 Winner | 7 Litre, Black",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-525613-375",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "Alkaline Water",
+        "pH Balance",
+        "Mineral Cartridge"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:26:09.448Z",
+      "id": "7"
+    },
+    {
+      "name": "PureDrops UV+UF Combo",
+      "category": "uv",
+      "price": 13999,
+      "originalPrice": 13999,
+      "rating": 4.3,
+      "stock": 18,
+      "reviews": 63,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww176gtbw/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+      "description": "RO+UV+MB Water Purifier with Stainless Steel Tank, Premium Glass Finish",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-741993-493",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "Dual Protection",
+        "Compact Design",
+        "LED Indicator"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:29:34.779Z",
+      "id": "8"
+    },
+    {
+      "name": "FreshFlow Countertop Filter",
+      "category": "gravity",
+      "price": 9499,
+      "originalPrice": 9499,
+      "rating": 4.2,
+      "stock": 22,
+      "reviews": 87,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww146rtlb_bblqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+      "description": "RO+Mineral Booster Water Purifier with Steel Tank, Black",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-914799-141",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "Space Saving",
+        "Easy Installation",
+        "3-stage Filter"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:32:33.198Z",
+      "id": "10"
+    },
+    {
+      "name": "AquaShield Pro RO+UV",
+      "category": "ro",
+      "price": 17999,
+      "originalPrice": 17999,
+      "rating": 3.5,
+      "stock": 14,
+      "reviews": 112,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww120nnc_csrqeil_eail_in_c/WW120NNC-Water-purifiers-Front-View-350.jpg",
+      "description": "UF+UV+HMR Water Purifier with Steel Tank, Crimson Red",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-958743-044",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "Advanced RO",
+        "UV Sterilization",
+        "Copper Charge"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:33:53.554Z",
+      "id": "11"
+    },
+    {
+      "name": "PureStream UF Purifier",
+      "category": "uf",
+      "price": 9999,
+      "originalPrice": 9999,
+      "rating": 4.1,
+      "stock": 16,
+      "reviews": 56,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww155ntb/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+      "description": "RO+UV+Mineral Booster Water Purifier, Steel Tank",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-864772-245",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "Hollow Fiber UF",
+        "Bacteria Removal",
+        "Low Maintenance"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:31:47.909Z",
+      "id": "12"
+    },
+    {
+      "name": "SmartAqua WiFi RO",
+      "category": "ro",
+      "price": 27999,
+      "originalPrice": 27999,
+      "rating": 4.8,
+      "stock": 7,
+      "reviews": 78,
+      "image": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+      "description": "RO+UV+Copper+Alkaline+Mineraliser | 10-Stage Water Purifier | No Service for 2 Years | India's Only 2-year Unconditional Warranty | 8L Storage",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-664704-104",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "App Control",
+        "Water Quality Monitor",
+        "Auto Flush"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:28:15.560Z",
+      "id": "13"
+    },
+    {
+      "name": "EcoPure Gravity System",
+      "category": "gravity",
+      "price": 7499,
+      "originalPrice": 7499,
+      "rating": 4,
+      "stock": 30,
+      "reviews": 45,
+      "image": "https://www.lg.com/content/dam/channel/wcms/in/water-purifiers/gallery/ww156rttb/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+      "description": "LG WW176GPRB.CBRQEIL 8L RO Water Purifier with Stainless Steel Tank, Premium Glass Finish",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-862530-889",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "Natural Filtration",
+        "8L Capacity",
+        "Silver Nano"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:30:54.144Z",
+      "id": "14"
+    },
+    {
+      "name": "AquaFresh Compact RO",
+      "category": "ro",
+      "price": 16999,
+      "originalPrice": 16999,
+      "rating": 4.4,
+      "stock": 11,
+      "reviews": 91,
+      "image": "https://m.media-amazon.com/images/I/61svr8JmVvL._SX342_.jpg",
+      "description": " RO UF Water Purifier | DuoGuard Filter Technology | Zero Service Cost for 2 Years + Proactive Service | Reduces Water Wastage by 30% | 100% RO Purified Water | 7 Stages | 7 L",
+      "brand": "",
+      "warranty": "1",
+      "sku": "PROD-711282-013",
+      "discount": 0,
+      "specifications": "",
+      "features": [
+        "Compact Design",
+        "5-stage RO",
+        "TDS Control"
+      ],
+      "status": "inactive",
+      "updatedAt": "2025-12-08T10:13:29.944Z",
+      "id": "15"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "ORD1765291480203367",
+      "orderId": "ORD-ORD1765291480203367",
+      "customerName": "Samith",
+      "customerEmail": "samith677@gmail.com",
+      "customerPhone": "8078332452",
+      "userId": "1",
+      "shippingAddress": {
+        "street": "Koppal,muttamgate,shiriya,kumbala",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "zipCode": "671322",
+        "country": "India",
+        "fullAddress": "Koppal,muttamgate,shiriya,kumbala, Bandiyod, Kerala - 671322"
+      },
+      "items": [
+        {
+          "productId": "5",
+          "productName": "SmartPure RO Digital",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww151nt_bbkqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 25999,
+          "quantity": 1,
+          "total": 25999,
+          "id": "5",
+          "name": "SmartPure RO Digital",
+          "image": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww151nt_bbkqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "category": "ro",
+          "description": "LG 8L RO+UV+Mineral Booster Water Purifier, Steel Tank, Black"
+        },
+        {
+          "productId": "13",
+          "productName": "SmartAqua WiFi RO",
+          "productImage": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 27999,
+          "quantity": 1,
+          "total": 27999,
+          "id": "13",
+          "name": "SmartAqua WiFi RO",
+          "image": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+          "category": "ro",
+          "description": "RO+UV+Copper+Alkaline+Mineraliser | 10-Stage Water Purifier | No Service for 2 Years | India's Only 2-year Unconditional Warranty | 8L Storage"
+        }
+      ],
+      "subtotal": 53998,
+      "tax": 9719.64,
+      "shippingCost": 0,
+      "discount": 0,
+      "totalAmount": 63717.64,
+      "status": "completed",
+      "paymentMethod": "upi",
+      "paymentStatus": "pending",
+      "orderDate": "2025-12-09T14:44:40.204Z",
+      "estimatedDelivery": "2025-12-16T14:44:40.204Z",
+      "notes": "",
+      "trackingNumber": "TRK-1765342066702",
+      "shippingMethod": "standard",
+      "shippingCarrier": "Standard Shipping",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      }
+    },
+    {
+      "id": "ORD1765292268708325",
+      "orderId": "ORD-ORD1765292268708325",
+      "customerName": "samith",
+      "customerEmail": "samithsamith677@gmail.com",
+      "customerPhone": "8078332452",
+      "userId": "1763984565491",
+      "shippingAddress": {
+        "street": "Koppal,muttamgate,shiriya,kumbala",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "zipCode": "671322",
+        "country": "India",
+        "fullAddress": "Koppal,muttamgate,shiriya,kumbala, Bandiyod, Kerala - 671322"
+      },
+      "items": [
+        {
+          "productId": "5",
+          "productName": "SmartPure RO Digital",
+          "productImage": "src/assets/Products/Aquaguard Service in New Delhi @7065012902.jpg",
+          "price": 21999,
+          "quantity": 1,
+          "total": 21999,
+          "id": "5",
+          "name": "SmartPure RO Digital",
+          "image": "src/assets/Products/Aquaguard Service in New Delhi @7065012902.jpg",
+          "category": "ro",
+          "description": "LG 8L RO+UV+Mineral Booster Water Purifier, Steel Tank, Black"
+        },
+        {
+          "productId": "11",
+          "productName": "AquaShield Pro RO+UV",
+          "productImage": "src/assets/home3.jpg",
+          "price": 14999,
+          "quantity": 1,
+          "total": 14999,
+          "id": "11",
+          "name": "AquaShield Pro RO+UV",
+          "image": "src/assets/home3.jpg",
+          "category": "ro",
+          "description": "UF+UV+HMR Water Purifier with Steel Tank, Crimson Red"
+        }
+      ],
+      "subtotal": 36998,
+      "tax": 6659.639999999999,
+      "shippingCost": 0,
+      "discount": 0,
+      "totalAmount": 43657.64,
+      "status": "shipped",
+      "paymentMethod": "upi",
+      "paymentStatus": "pending",
+      "orderDate": "2025-12-09T14:57:48.708Z",
+      "estimatedDelivery": "2025-12-16T14:57:48.708Z",
+      "notes": "",
+      "trackingNumber": "TRK-1765292325290",
+      "shippingMethod": "standard",
+      "shippingCarrier": "Standard Shipping",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      }
+    },
+    {
+      "id": "ORD1765345007646775",
+      "userId": "1",
+      "userName": "Samith",
+      "userEmail": "samith677@gmail.com",
+      "deliveryAddress": {
+        "fullName": "Samith",
+        "phoneNumber": "8078332452",
+        "email": "samith677@gmail.com",
+        "addressLine1": "Koppal,muttamgate,shiriya,kumbala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "5",
+          "productName": "SmartPure RO Digital",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww151nt_bbkqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 25999,
+          "quantity": 1,
+          "total": 25999
+        },
+        {
+          "productId": "13",
+          "productName": "SmartAqua WiFi RO",
+          "productImage": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 27999,
+          "quantity": 1,
+          "total": 27999
+        }
+      ],
+      "subtotal": 53998,
+      "shipping": 0,
+      "tax": 9719.64,
+      "total": 63717.64,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2025-12-10T05:36:47.646Z",
+      "estimatedDelivery": "2025-12-17T05:36:47.646Z"
+    },
+    {
+      "id": "ORD1765345082495378",
+      "userId": "1",
+      "userName": "Samith",
+      "userEmail": "samith677@gmail.com",
+      "deliveryAddress": {
+        "fullName": "Samith",
+        "phoneNumber": "8078332452",
+        "email": "samith677@gmail.com",
+        "addressLine1": "Koppal,muttamgate,shiriya,kumbala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "5",
+          "productName": "SmartPure RO Digital",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww151nt_bbkqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 25999,
+          "quantity": 1,
+          "total": 25999
+        },
+        {
+          "productId": "13",
+          "productName": "SmartAqua WiFi RO",
+          "productImage": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 27999,
+          "quantity": 1,
+          "total": 27999
+        }
+      ],
+      "subtotal": 53998,
+      "shipping": 0,
+      "tax": 9719.64,
+      "total": 63717.64,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2025-12-10T05:38:02.495Z",
+      "estimatedDelivery": "2025-12-17T05:38:02.495Z"
+    },
+    {
+      "id": "ORD1765348837927813",
+      "userId": "1",
+      "userName": "Samith",
+      "userEmail": "samith677@gmail.com",
+      "deliveryAddress": {
+        "fullName": "Samith",
+        "phoneNumber": "8078332452",
+        "email": "samith677@gmail.com",
+        "addressLine1": "Koppal,muttamgate,shiriya,kumbala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "5",
+          "productName": "SmartPure RO Digital",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww151nt_bbkqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 25999,
+          "quantity": 1,
+          "total": 25999
+        },
+        {
+          "productId": "13",
+          "productName": "SmartAqua WiFi RO",
+          "productImage": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 27999,
+          "quantity": 1,
+          "total": 27999
+        }
+      ],
+      "subtotal": 53998,
+      "shipping": 0,
+      "tax": 9719.64,
+      "total": 63717.64,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2025-12-10T06:40:37.927Z",
+      "estimatedDelivery": "2025-12-17T06:40:37.927Z"
+    },
+    {
+      "id": "ORD1765380242648839",
+      "userId": "1",
+      "userName": "Samith",
+      "userEmail": "samith677@gmail.com",
+      "deliveryAddress": {
+        "fullName": "Samith",
+        "phoneNumber": "8078332452",
+        "email": "samith677@gmail.com",
+        "addressLine1": "Koppal,muttamgate,shiriya,kumbala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "13",
+          "productName": "SmartAqua WiFi RO",
+          "productImage": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 27999,
+          "quantity": 2,
+          "total": 55998
+        }
+      ],
+      "subtotal": 55998,
+      "shipping": 0,
+      "tax": 10079.64,
+      "total": 66077.64,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2025-12-10T15:24:02.648Z",
+      "estimatedDelivery": "2025-12-17T15:24:02.648Z"
+    },
+    {
+      "id": "ORD1765797558224184",
+      "userId": "1",
+      "userName": "Samith",
+      "userEmail": "samith677@gmail.com",
+      "deliveryAddress": {
+        "fullName": "Samith",
+        "phoneNumber": "8078332452",
+        "email": "samith677@gmail.com",
+        "addressLine1": "Koppal,muttamgate,shiriya,kumbala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "12",
+          "productName": "PureStream UF Purifier",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww155ntb/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 9999,
+          "quantity": 1,
+          "total": 9999
+        }
+      ],
+      "subtotal": 9999,
+      "shipping": 0,
+      "tax": 1799.82,
+      "total": 11798.82,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2025-12-15T11:19:18.224Z",
+      "estimatedDelivery": "2025-12-22T11:19:18.224Z"
+    },
+    {
+      "id": "ORD1765798220696653",
+      "userId": "1763984565491",
+      "userName": "samith",
+      "userEmail": "samithsamith677@gmail.com",
+      "deliveryAddress": {
+        "fullName": "samith",
+        "phoneNumber": "8078332452",
+        "email": "samithsamith677@gmail.com",
+        "addressLine1": "Koppal,muttamgate,shiriya,kumbala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "5",
+          "productName": "SmartPure RO Digital",
+          "productImage": "src/assets/Products/Aquaguard Service in New Delhi @7065012902.jpg",
+          "price": 21999,
+          "quantity": 1,
+          "total": 21999
+        }
+      ],
+      "subtotal": 21999,
+      "shipping": 0,
+      "tax": 3959.8199999999997,
+      "total": 25958.82,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2025-12-15T11:30:20.696Z",
+      "estimatedDelivery": "2025-12-22T11:30:20.696Z"
+    },
+    {
+      "id": "ORD1765798431756967",
+      "userId": "1763991765974",
+      "userName": "adil",
+      "userEmail": "adil@gmail.com",
+      "deliveryAddress": {
+        "fullName": "adil",
+        "phoneNumber": "8076243434",
+        "email": "adil@gmail.com",
+        "addressLine1": "adil manzil,sonkal,nayabazar,uppala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "3",
+          "productName": "CleanWater UV Purifier",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww136rtnb/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 10000,
+          "quantity": 1,
+          "total": 10000
+        },
+        {
+          "productId": "10",
+          "productName": "FreshFlow Countertop Filter",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww146rtlb_bblqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 9499,
+          "quantity": 1,
+          "total": 9499
+        }
+      ],
+      "subtotal": 19499,
+      "shipping": 0,
+      "tax": 3509.8199999999997,
+      "total": 23008.82,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "adil32-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2025-12-15T11:33:51.756Z",
+      "estimatedDelivery": "2025-12-22T11:33:51.756Z"
+    },
+    {
+      "id": "ORD1766724943827511",
+      "userId": "1",
+      "userName": "Samith",
+      "userEmail": "samith677@gmail.com",
+      "deliveryAddress": {
+        "fullName": "Samith",
+        "phoneNumber": "8078332452",
+        "email": "samith677@gmail.com",
+        "addressLine1": "Koppal,muttamgate,shiriya,kumbala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "13",
+          "productName": "SmartAqua WiFi RO",
+          "productImage": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 27999,
+          "quantity": 1,
+          "total": 27999
+        },
+        {
+          "productId": "5",
+          "productName": "SmartPure RO Digital",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww151nt_bbkqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 25999,
+          "quantity": 1,
+          "total": 25999
+        }
+      ],
+      "subtotal": 53998,
+      "shipping": 0,
+      "tax": 9719.64,
+      "total": 63717.64,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2025-12-26T04:55:43.827Z",
+      "estimatedDelivery": "2026-01-02T04:55:43.827Z"
+    },
+    {
+      "id": "ORD176672510368728",
+      "userId": "1763991765974",
+      "userName": "adil",
+      "userEmail": "adil@gmail.com",
+      "deliveryAddress": {
+        "fullName": "adil",
+        "phoneNumber": "8076243434",
+        "email": "adil@gmail.com",
+        "addressLine1": "adil manzil,sonkal,nayabazar,uppala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "8",
+          "productName": "PureDrops UV+UF Combo",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww176gtbw/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 13999,
+          "quantity": 1,
+          "total": 13999
+        }
+      ],
+      "subtotal": 13999,
+      "shipping": 0,
+      "tax": 2519.8199999999997,
+      "total": 16518.82,
+      "paymentMethod": "card",
+      "paymentDetails": {
+        "cardLast4": "3234",
+        "cardHolder": "ADIL "
+      },
+      "status": "confirmed",
+      "orderDate": "2025-12-26T04:58:23.687Z",
+      "estimatedDelivery": "2026-01-02T04:58:23.687Z"
+    },
+    {
+      "id": "ORD1767607662274898",
+      "userId": "1763984565491",
+      "userName": "samith",
+      "userEmail": "samithsamith677@gmail.com",
+      "deliveryAddress": {
+        "fullName": "samith",
+        "phoneNumber": "8078332452",
+        "email": "samithsamith677@gmail.com",
+        "addressLine1": "Koppal,muttamgate,shiriya,kumbala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "12",
+          "productName": "PureStream UF Purifier",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww155ntb/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 9999,
+          "quantity": 2,
+          "total": 19998
+        },
+        {
+          "productId": "13",
+          "productName": "SmartAqua WiFi RO",
+          "productImage": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 27999,
+          "quantity": 2,
+          "total": 55998
+        },
+        {
+          "productId": "5",
+          "productName": "SmartPure RO Digital",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/images/water-purifiers/ww151nt_bbkqeil_eail_in_c/gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 25999,
+          "quantity": 1,
+          "total": 25999
+        }
+      ],
+      "subtotal": 101995,
+      "shipping": 0,
+      "tax": 18359.1,
+      "total": 120354.1,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2026-01-05T10:07:42.274Z",
+      "estimatedDelivery": "2026-01-12T10:07:42.274Z"
+    },
+    {
+      "id": "ORD1767673732889688",
+      "userId": "1763984565491",
+      "userName": "samith",
+      "userEmail": "samithsamith677@gmail.com",
+      "deliveryAddress": {
+        "fullName": "samith",
+        "phoneNumber": "8078332452",
+        "email": "samithsamith677@gmail.com",
+        "addressLine1": "Koppal,muttamgate,shiriya,kumbala",
+        "addressLine2": "",
+        "city": "Bandiyod",
+        "state": "Kerala",
+        "pincode": "671322",
+        "country": "India"
+      },
+      "items": [
+        {
+          "productId": "13",
+          "productName": "SmartAqua WiFi RO",
+          "productImage": "https://m.media-amazon.com/images/I/51llNKaJLNL._AC_UY327_FMwebp_QL65_.jpg",
+          "price": 27999,
+          "quantity": 1,
+          "total": 27999
+        },
+        {
+          "productId": "2",
+          "productName": "PureFlow Mineral RO System",
+          "productImage": "https://www.lg.com/content/dam/channel/wcms/in/water-purifiers/gallery/ww156rttc/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg",
+          "price": 14999,
+          "quantity": 1,
+          "total": 14999
+        }
+      ],
+      "subtotal": 42998,
+      "shipping": 0,
+      "tax": 7739.639999999999,
+      "total": 50737.64,
+      "paymentMethod": "upi",
+      "paymentDetails": {
+        "upiId": "samithsamith677-1@okicici"
+      },
+      "status": "confirmed",
+      "orderDate": "2026-01-06T04:28:52.889Z",
+      "estimatedDelivery": "2026-01-13T04:28:52.889Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "f580",
+      "name": "Samith",
+      "phone": "8078332452",
+      "service": "repair",
+      "message": "",
+      "date": "2025-12-15T11:26:04.903Z",
+      "status": "confirmed"
+    },
+    {
+      "id": "9944",
+      "name": "Adil",
+      "phone": "8012345245",
+      "service": "installation",
+      "message": "",
+      "date": "2025-12-15T11:27:32.016Z",
+      "status": "pending"
+    },
+    {
+      "id": "0d3b",
+      "name": "Gopal",
+      "phone": "9656567901",
+      "service": "filter",
+      "message": "I need a Filter Replacement",
+      "date": "2025-12-15T11:29:14.027Z",
+      "status": "pending"
+    }
+  ]
+}
