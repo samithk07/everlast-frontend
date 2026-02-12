@@ -41,7 +41,7 @@ const ServicesPage = () => {
   const [refreshing, setRefreshing] = useState(false);
 
   // API Base URL
-  const API_URL = 'http://localhost:3001/bookings';
+  const API_URL = 'https://everlast-backend.onrender.com/bookings';
 
   // Fetch bookings from JSON Server
   const fetchBookings = async () => {

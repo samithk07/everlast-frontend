@@ -108,7 +108,7 @@ const Services = () => {
       };
 
       // Send POST request to JSON Server
-      const response = await fetch('http://localhost:3001/bookings', {
+      const response = await fetch('https://everlast-backend.onrender.com/bookings', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

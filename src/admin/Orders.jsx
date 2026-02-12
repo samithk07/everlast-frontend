@@ -33,7 +33,7 @@ import { format } from 'date-fns';
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-const API_BASE = 'http://localhost:3001';
+const API_BASE = 'https://everlast-backend.onrender.com';
 
 const OrdersPage = () => {
   const [orders, setOrders] = useState([]);
@@ -954,7 +954,7 @@ const OrdersPage = () => {
             <div>
               <p className="text-red-800 font-medium">{error}</p>
               <p className="text-red-700 text-sm mt-1">
-                Make sure json-server is running on http://localhost:3001 with orders data
+                Make sure json-server is running on https://everlast-backend.onrender.com with orders data
               </p>
               <button 
                 onClick={loadDemoOrders}

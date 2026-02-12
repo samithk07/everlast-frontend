@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import { toast } from 'react-toastify';
 
-const API_BASE = 'http://localhost:3001';
+const API_BASE = 'https://everlast-backend.onrender.com';
 
 export const useOrders = (userId = '1') => {
   const [orders, setOrders] = useState([]);

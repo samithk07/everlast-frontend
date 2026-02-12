@@ -20,7 +20,7 @@ const ProductsPage = () => {
     const [addingToCart, setAddingToCart] = useState({});
 
     // Use the same API_BASE as your admin panel
-    const API_BASE = 'http://localhost:3001';
+    const API_BASE = 'https://everlast-backend.onrender.com';
 
     const colors = {
         primary: '#00A9FF',

@@ -85,7 +85,7 @@ const Registration = () => {
                 // First check if JSON Server is running
                 let serverAvailable = false;
                 try {
-                    await axios.get('http://localhost:3001/users', { timeout: 3000 });
+                    await axios.get('https://your-backend-name.onrender.com/users', { timeout: 3000 });
                     serverAvailable = true;
                 } catch (error) {
                     console.log('JSON Server not available, using localStorage');
@@ -133,7 +133,7 @@ const Registration = () => {
             console.log('Attempting to register user to JSON Server...');
             
             // First, check if user already exists by fetching all users
-            const response = await axios.get('http://localhost:3001/users', {
+            const response = await axios.get('https://your-backend-name.onrender.com/users', {
                 timeout: 5000
             });
             
@@ -162,7 +162,7 @@ const Registration = () => {
             console.log('Saving user to server:', newUser);
 
             // Save to db.json using POST request
-            const saveResponse = await axios.post('http://localhost:3001/users', newUser, {
+            const saveResponse = await axios.post('https://your-backend-name.onrender.com/users', newUser, {
                 headers: {
                     'Content-Type': 'application/json'
                 }

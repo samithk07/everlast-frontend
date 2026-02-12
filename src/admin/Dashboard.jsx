@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Package, ShoppingBag, Users, IndianRupee , TrendingUp, Activity, Clock } from 'lucide-react';
 
-const API_BASE = 'http://localhost:3001';
+const API_BASE = 'https://everlast-backend.onrender.com';
 
 const DashboardPage = () => {
   const [stats, setStats] = useState({
@@ -48,7 +48,7 @@ const DashboardPage = () => {
         revenue: revenue
       });
     } catch (err) {
-      setError('Failed to load data. Make sure json-server is running on http://localhost:3001');
+      setError('Failed to load data. Make sure json-server is running on https://everlast-backend.onrender.com');
       console.error('Dashboard data error:', err);
     } finally {
       setLoading(false);

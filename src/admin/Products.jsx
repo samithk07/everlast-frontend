@@ -7,7 +7,7 @@ import {
   AlertCircle, Percent, Hash, CheckCircle, XCircle as XCircleIcon, AlertTriangle, Info
 } from 'lucide-react';
 
-const API_BASE = 'http://localhost:3001';
+const API_BASE = 'https://everlast-backend.onrender.com';
 const MAX_IMAGE_SIZE = 100 * 1024; // 100KB max for demo
 const COMPRESSED_MAX_WIDTH = 400;
 const COMPRESSED_QUALITY = 0.7;
@@ -802,7 +802,7 @@ const ProductsPage = () => {
               <div className="text-red-500 mr-3">⚠️</div>
               <div>
                 <p className="text-red-800 font-medium">{error}</p>
-                <p className="text-red-700 text-sm mt-1">Make sure json-server is running on http://localhost:3001</p>
+                <p className="text-red-700 text-sm mt-1">Make sure json-server is running on https://everlast-backend.onrender.com</p>
               </div>
             </div>
           </div>

@@ -37,7 +37,7 @@ import { format } from 'date-fns';
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-const API_BASE = 'http://localhost:3001';
+const API_BASE = 'https://everlast-backend.onrender.com';
 
 const OrderDetailsPage = () => {
   const [orders, setOrders] = useState([]);
@@ -923,7 +923,7 @@ const OrderDetailsPage = () => {
             <div>
               <p className="text-yellow-800 font-medium">{error}</p>
               <p className="text-yellow-700 text-sm mt-1">
-                Using localStorage data. Make sure json-server is running on http://localhost:3001 for full functionality.
+                Using localStorage data. Make sure json-server is running on https://everlast-backend.onrender.com for full functionality.
               </p>
             </div>
           </div>
