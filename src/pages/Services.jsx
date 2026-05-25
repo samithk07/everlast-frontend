@@ -85,7 +85,7 @@ const Services = () => {
   };
 
   const handleCallNow = () => {
-    window.location.href = 'tel:+919656567901';
+    window.location.href = 'tel:+918078332452';
   };
 
   // UPDATED FUNCTION: Save to JSON Server
