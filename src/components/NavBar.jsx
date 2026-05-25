@@ -103,7 +103,7 @@ const NavBar = () => {
                         onClick={() => handleNavigation('/home')}
                     >
                         <img 
-                            src="src/assets/Products/ChatGPT Image Nov 27, 2025, 02_32_36 PM.png" 
+                            src="public/image/ChatGPT Image Nov 27, 2025, 02_32_36 PM.png" 
                             alt="Everlast Water Solutions" 
                             className="h-12 w-12 duration-300 hover:border-[#A0E9FF]"
                         />

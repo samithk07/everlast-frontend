@@ -29,33 +29,6 @@ const HomePage = () => {
         success: '#10B981'
     };
 
-    // Testimonials data
-    const testimonials = [
-        {
-            name: "Rajesh Kumar",
-            location: "Mumbai",
-            rating: 5,
-            text: "The water test helped me choose the perfect RO system. Water quality improved dramatically!",
-            beforeTds: 850,
-            afterTds: 25
-        },
-        {
-            name: "Priya Sharma",
-            location: "Pune",
-            rating: 5,
-            text: "Free home demo was very helpful. Technician explained everything clearly.",
-            beforeTds: 650,
-            afterTds: 20
-        },
-        {
-            name: "Amit Patel",
-            location: "Thane",
-            rating: 4,
-            text: "Great service and support. Never miss filter changes with their reminder service.",
-            beforeTds: 1200,
-            afterTds: 15
-        }
-    ];
 
     // Products data - Updated with proper product structure
     const products = [
@@ -67,7 +40,7 @@ const HomePage = () => {
             rating: 4.5,
             reviews: 124,
             features: ["7 Stage Purification", "Smart TDS Controller", "10L Storage"],
-            image: "src/assets/home1.jpg",
+            image: "public/image/home1.jpg",
             category: "ro",
             stock: 15
         },
@@ -79,7 +52,7 @@ const HomePage = () => {
             rating: 4.3,
             reviews: 89,
             features: ["UV Disinfection", "3 Stage Filtration", "Compact Design"],
-            image: "src/assets/home2.jpg",
+            image: "public/image/home2.jpg",
             category: "uv",
             stock: 12
         },
@@ -91,7 +64,7 @@ const HomePage = () => {
             rating: 4.0,
             reviews: 67,
             features: ["UF Membrane", "No Electricity", "5L Capacity"],
-            image: "src/assets/home4.jpg",
+            image: "public/image/home3.jpg",
             category: "uf",
             stock: 20
         },
@@ -103,19 +76,13 @@ const HomePage = () => {
             rating: 4.7,
             reviews: 156,
             features: ["Mineral Booster", "8 Stage RO", "12L Tank"],
-            image: "src/assets/home3.jpg",
+            image: "public/image/home4.jpg",
             category: "ro",
             stock: 8
         }
     ];
 
-    // Auto-rotate testimonials
-    useEffect(() => {
-        const interval = setInterval(() => {
-            setCurrentSlide((prev) => (prev + 1) % testimonials.length);
-        }, 5000);
-        return () => clearInterval(interval);
-    }, [testimonials.length]);
+    
 
     const handleInputChange = (e) => {
         setFormData({
@@ -400,7 +367,7 @@ Please contact the customer to schedule the water test.`;
                                     style={{ backgroundColor: 'rgba(255,255,255,0.1)' }}
                                 >
                                     <img
-                                        src="src/assets/home first image.webp"
+                                        src="public/image/home first image.webp"
                                         alt="Water Purifier"
                                         className="rounded-2xl transform -rotate-3 shadow-2xl"
                                     />
@@ -561,7 +528,7 @@ Please contact the customer to schedule the water test.`;
 
               
 
-                {/* 🏅 12. Certifications */}
+                
                 <section className="py-16 bg-white">
                     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                         <h2 className="text-3xl lg:text-4xl font-bold text-center mb-12">
@@ -572,7 +539,7 @@ Please contact the customer to schedule the water test.`;
                             {[
                                 { icon: <Award className="w-12 h-12" style={{ color: colors.primary }} />, text: "ISO Certified" },
                                 { icon: <FileText className="w-12 h-12" style={{ color: colors.primary }} />, text: "WHO Guidelines" },
-                                { icon: <Shield className="w-12 h-12" style={{ color: colors.primary }} />, text: "2 Year Warranty" },
+                                { icon: <Shield className="w-12 h-12" style={{ color: colors.primary }} />, text: "5 Year Warranty" },
                                 { icon: <CheckCircle className="w-12 h-12" style={{ color: colors.primary }} />, text: "Free Installation" }
                             ].map((cert, index) => (
                                 <div key={index} className="text-center">

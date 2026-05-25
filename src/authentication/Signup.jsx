@@ -7,7 +7,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const BASE_URL = "https://everlast-backend.onrender.com"; 
-// 🔴 CHANGE THIS TO YOUR REAL RENDER BACKEND URL
+
 
 const Login = () => {
   const [formData, setFormData] = useState({
